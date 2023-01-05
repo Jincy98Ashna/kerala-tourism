@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.signup{
+    float: right;
+    width: 20%; 
+   margin-top: 20px;
+   margin-right: 5%;
+   
+}
+
+.bg img{
+    height: 40em;
+    width: 70%;
+}
+
+button{
+    width: 100%;
+    
+}
+
+footer{
+    height: 30px;
+    width: 100%;
+    background-color: #28a745;
+    
+}
+
+footer h3{
+    font-size: small;
+    text-align: center;
+}
